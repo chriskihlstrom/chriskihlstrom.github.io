@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Chris Kihlstrom On Code
 header-img: img/home-bg.png
 email: ckihlst@gmail.com
 copyright_name: chriskihlstrom
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: chriskihlstrom
 github_username:  chriskihlstrom
